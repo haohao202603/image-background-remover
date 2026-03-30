@@ -38,4 +38,4 @@ jobs:
           accountId: 49b449da4deb9fce24000dc2906ab6d0
           projectName: image-background-remover
           directory: .next
-          branch: main
+          branch: master
